@@ -39,9 +39,9 @@ Return a csv with 4 (or more) columns containing the following information:
 
 e.g. 
 
-0   ;   She ran into some issues while running the first code.     ;     (4,12)  ;   *run into*  ;   95
-1   ;   He consulted a copy of the NLP bible by Jurafsky and Martin before giving up on the assignment.     ;     (67,79)  ;   *give up on*  ;   80
-2   ;   The dog *was sick of* fetching the stick.    ;   (12,19)    ;   /   ;   5 (NOT a phrasal verb construction)
+0.0   ;   She ran into some issues while running the first code.     ;     (4,12)  ;   *run into*  ;   95
+1. 1   ;   He consulted a copy of the NLP bible by Jurafsky and Martin before giving up on the assignment.     ;     (67,79)  ;   *give up on*  ;   80
+2. 2   ;   The dog *was sick of* fetching the stick.    ;   (12,19)    ;   /   ;   5 (NOT a phrasal verb construction)
 
 
 Bonus: 
