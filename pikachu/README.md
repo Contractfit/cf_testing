@@ -34,7 +34,7 @@ Bonus:
 
 ### DELIVERABLE ###
 
-Send an email to provisioned mail address XXX@contract.fit with the following in 1 ZIP:
+Send an email to provisioned mail address athar@contract.fit with the following in 1 ZIP:
 
 * Your code
 * Instructions to run the code
